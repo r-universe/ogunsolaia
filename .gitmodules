@@ -5,4 +5,3 @@
 [submodule "spaci"]
 	path = spaci
 	url = https://github.com/ogunsolaia/spaci
-	subdir = spaci
